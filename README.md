@@ -17,14 +17,14 @@ STEP 3 : The data gets stored simultaneously in MongoDB hosted in AWS
 STEP 4 : Admin triggers the result algorithm and transfers the JSON based produced results to the google sheet.
 
 ### FRONT-END
-<img src="ScreenShots/TA1.png" />
-<img src="ScreenShots/TA2.png" />
-<img src="ScreenShots/TA3.png" />
-<img src="ScreenShots/TA4.png" />
-<img src="ScreenShots/TA5.png" />
-<img src="ScreenShots/TA6.png" />
-<img src="ScreenShots/TA7.png" />
-<img src="ScreenShots/TA8.png" />
+<img src="img/TA1.png" />
+<img src="img/TA2.png" />
+<img src="img/TA3.png" />
+<img src="img/TA4.png" />
+<img src="img/TA5.png" />
+<img src="img/TA6.png" />
+<img src="img/TA7.png" />
+<img src="img/TA8.png" />
 
 ### BACK-END 
 #### ALGORITHM
