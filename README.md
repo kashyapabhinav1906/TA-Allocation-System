@@ -53,7 +53,7 @@ Higher year UG/PG courses are to be preferred from lower year UG/PG courses
 ● Defining basic deliverables and user requirements\
 ● Exploring Technologies\
 ● Choice of panels\
-● Platform\
+● Platform
 ● Web/standalone application\
 ● Budget and Team\
 
@@ -75,6 +75,10 @@ Higher year UG/PG courses are to be preferred from lower year UG/PG courses
 
 #### Launch, Testing, Feedback and Update
 ●  To be done 
+
+
+### TEAM MEMBERS
+Abhinav Kashyap, Ankit Chauhan, Vipul Sharma
 
 
 
